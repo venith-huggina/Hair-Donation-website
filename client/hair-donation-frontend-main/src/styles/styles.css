@@ -1,0 +1,56 @@
+.App {
+  font-family: sans-serif;
+}
+
+.iconSection{
+  padding-left: 20px;
+  padding-bottom: 9px;
+  border-radius: 4px;
+  flex : 1;
+  text-align:left;
+}
+
+.headerSection{
+   width :100%;
+   display: flex;
+   background-color:  #8f9494;;
+   padding: 8px;
+   
+}
+
+.logoSection{
+  flex: 1;
+  text-align: center;
+}
+
+.logoSection h4{
+  color: white;
+  font-size: 28px;
+  margin-top: 25px;
+
+}
+
+.iconSection{
+  flex: 1 ;
+}
+
+
+.loginSection{
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+  float: right;
+  font-size: 10px;
+  margin-right: 35px;
+}
+
+.loginSection .a{
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.headerButtons{
+  font-size: 10px;
+  font-weight: 600;
+}
+
